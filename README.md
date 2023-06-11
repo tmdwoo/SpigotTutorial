@@ -1,10 +1,10 @@
 # 플러그인 개발로 JAVA 입문하기
 
-1. [개발 시작하기](##개발-시작하기)
-2. ["Hello World!"](##"hello-world!")
-3. [/ping, "pong!"](##/ping,-"pong!")
-4. [JAVA는 객체지향언어!](##java는-객체지향언어!)
-5. [플러그인의 꽃, EventHandler](##플러그인의-꽃,-eventhandler)
+1. [개발 시작하기](#개발-시작하기)
+2. ["Hello World!"](#hello-world)
+3. [/ping, "pong!"](#ping-pong)
+4. [JAVA는 객체지향언어!](#java는-객체지향언어)
+5. [플러그인의 꽃, EventHandler](#플러그인의-꽃-eventhandler)
 
 ## 개발 시작하기
 
