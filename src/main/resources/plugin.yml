@@ -1,0 +1,38 @@
+name: Tutorial
+version: '${project.version}'
+main: net.hassxxwxx.tutorial.Tutorial
+api-version: 1.19
+commands:
+  ping:
+    description: Ping command
+    usage: /<command>
+    aliases: [p]
+    permission: tutorial.ping
+  push:
+    description: Push command
+    usage: /<command>
+    aliases: [pu]
+    permission: tutorial.push
+  rocket:
+    description: Rocket command
+    usage: /<command>
+    aliases: [r]
+    permission: tutorial.rocket
+  empty:
+    description: Empty command
+    usage: /<command>
+    aliases: [e]
+    permission: tutorial.empty
+permissions:
+    tutorial.ping:
+        description: Gives access to the ping command
+        default: true
+    tutorial.push:
+        description: Gives access to the push command
+        default: true
+    tutorial.rocket:
+        description: Gives access to the rocket command
+        default: true
+    tutorial.empty:
+        description: Gives access to the empty command
+        default: true
