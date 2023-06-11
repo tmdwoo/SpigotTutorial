@@ -1,8 +1,6 @@
 package net.hassxxwxx.tutorial;
 
 import org.bukkit.Bukkit;
-import org.bukkit.entity.HumanEntity;
-import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class Tutorial extends JavaPlugin {
